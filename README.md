@@ -32,15 +32,13 @@ The **Streamlit application** embeds the Power BI dashboard for seamless access 
 Below are screenshots of the project for better understanding:
 
 ### **Power BI Dashboard**
-#### Market details
-![Power BI Dashboard](s1.png)
+#### Market overview
+![Dashboard](s1.png)
 
-### **Streamlit Application**
-#### Embedded Power BI Dashboard
+#### Top 10 gainers and losers over the year
 ![Top 10 gainers and losers over the year](s2.png)
 
-### **Streamlit Application**
-#### Embedded Power BI Dashboard
+#### Top 5 gainers and losers monthly
 ![Top 5 gainers and losers monthly](s3.png)
 
 ---
