@@ -58,11 +58,7 @@ Below are screenshots of the project for better understanding:
 
 To run this project locally, follow these steps:
 
-### **Clone the Repository**
+### **1. Clone the Repository**
 ```bash
-git clone https://github.com/YourUsername/StockMarketAnalysis.git
-
-### **Run application**
-```bash
-streamlit run stockanalysis.py
+git clone https://github.com/Ragnor16/Stock-market-guvi-project.git
 
